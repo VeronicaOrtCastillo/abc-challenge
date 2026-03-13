@@ -1,5 +1,5 @@
 // Colores permitidos
-const colors = ["green", "blue", "red"];
+const colors = ["green", "blue", "red","brown"];
 
 // Seleccionar todos los h5
 const headings = document.querySelectorAll("h5");
